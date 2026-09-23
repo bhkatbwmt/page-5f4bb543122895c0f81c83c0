@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "53c3a384d2590795c56f94b9",
+  "owner": "bhkatbwmt",
+  "repo": "page-5f4bb543122895c0f81c83c0",
+  "title": "白嫖(SKY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f4bb543122895c0f81c83c0",
+      "a": "白嫖(SKY)",
+      "b": "2027官方最新地址导航",
+      "entity": "白嫖(SKY)",
+      "brand": "白嫖(SKY)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b9b879dcf5a739979288ad93f80f41c3a9ebc4bb640e0b88e25806968d418726",
+      "content": {
+        "primary_entity": "白嫖(SKY)",
+        "keyword1": "白嫖(SKY)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，参照配置文档导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选定套餐，再参考客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖 3 台、5 台与 20 台设备同时在线，月付与年付价格清晰，可按终端数量与流量消耗选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度，快速匹配适合的加速方案。",
+          "AI_FEATURES_TITLE": "品牌特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 15 元，含 100GB 流量并支持 3 台设备，适合轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 35 元，300GB 流量与 5 台设备，含 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 85 元，1000GB 流量支持 20 台设备与专属路由定制。",
+          "AI_FEATURE_TITLE_1": "套餐分层",
+          "AI_FEATURE_TITLE_2": "设备匹配",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "按选服务、查适配、配订阅的顺序，三步完成设置。",
+          "AI_GUIDE_TITLE": "设置步骤",
+          "AI_HERO_INTRO": "白嫖(SKY)提供多档海外网络加速订阅，覆盖个人到团队使用场景，用户可根据设备数量与流量需求选择基础版、旗舰版或团队版，并按客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档订阅可选，按设备匹配",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付价格低于月付合计",
+          "AI_HIGHLIGHT_3": "按设备数量匹配在线额度",
+          "AI_PLANS_INTRO": "基础版每月 15 元或年付 150 元，旗舰版每月 35 元或年付 350 元，团队版每月 85 元或年付 850 元，按设备数与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版之间确定订阅档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与流量额度，确认与当前终端环境匹配。",
+          "AI_STEP_TEXT_3": "按照对应客户端的配置文档导入订阅链接，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白嫖(SKY) 海外加速器",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "白嫖(SKY)的套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "套餐档位可按需更换，具体升级方式以订阅管理页显示的选项为准。升级后流量和在线设备数按新档位执行。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版5台，团队版20台。同时在线设备数超过套餐上限时，后续设备可能无法连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，年付一次性支付更划算。基础版年付150元，旗舰版年付350元，团队版年付850元，权益与对应月付档位一致。",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后连不上怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅链接是否完整、客户端版本是否匹配，再检查本地网络。多数情况更新订阅或重启客户端后即可恢复。",
+          "AI_FAQ_QUESTION_5": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，超出部分可能限速或暂停，建议按实际用量选择档位，或升级到更高流量的套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kafeihao.cn",
+    "host": "kafeihao.cn"
+  },
+  "file_hashes": {
+    "index.html": "000b55eb0697be1ec485f625529ee5dc4412a9c478d21a61279b0eeb2edd3176",
+    "sitemap.xml": "26a090ae79f94ca0c83b9b94c813c1faeab54b907b6775ebb03f0b2e08196c6d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "766e864fcbaf3f46d3a476b43fdfc81553710f3d90ec3470f837f945d22c1a27",
+    "robots.txt": "332e81f7c22da588ca08d878b15558bc0adaeeac4f4667346e6a2aeee31645c4",
+    "f14394350fcf60549405f20970dee4f9.txt": "003080815b45a2ebe026e3e916ff51c97bff1a9abc0a881867ceadebc2846244"
+  },
+  "revision": "343f9e01540734082b2c80b27c29813d8ea72f46ff8f94cd82f2cf808765d4a9"
+}
